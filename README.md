@@ -1,15 +1,15 @@
 # prettier_codestyle
 
-Our Netrex [Prettier](https://prettier.io) config.
+CamStreamer [Prettier](https://prettier.io) config.
 
-Template stolen from here: https://github.com/azz/prettier-config
+Template inspired by: https://github.com/azz/prettier-config
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ yarn add --dev @netrex/prettier-config
+$ yarn add --dev @camstreamer/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -17,6 +17,13 @@ $ yarn add --dev @netrex/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@netrex/prettier-config"
+  "prettier": "@camstreamer/prettier-config"
 }
 ```
+
+## Publishing
+
+```
+np --no-tests --no-2fa
+```
+

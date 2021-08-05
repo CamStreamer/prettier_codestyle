@@ -1,6 +1,6 @@
 {
   "name": "@camstreamer/prettier-config",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "CamStreamer prettier config",
   "main": "index.json",
   "repository": "git@github.com:CamStreamer/prettier_codestyle.git",
@@ -10,4 +10,3 @@
     "access": "public"
   }
 }
-

@@ -5,6 +5,9 @@
   "main": "index.json",
   "repository": "git@github.com:CamStreamer/prettier_codestyle.git",
   "author": "CamStreamer",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "publishConfig": {
+    "access": "public"
+  }
 }
 

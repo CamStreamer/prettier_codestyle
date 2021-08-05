@@ -1,0 +1,10 @@
+{
+  "name": "@netrex/prettier-config",
+  "version": "2.0.0",
+  "description": "Netrex prettier config",
+  "main": "index.json",
+  "repository": "git@gitlab.com:netrex/prettier-config.git",
+  "author": "Jan Kaifer <jan.kaifer@netrex.cz>",
+  "license": "UNLICENSED"
+}
+
